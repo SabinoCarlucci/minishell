@@ -1,6 +1,3 @@
-Ecco la tua lista formattata correttamente come un file `.md`:
-
-```markdown
 # Funzioni ammesse nel progetto Minishell
 
 ## **Funzioni di libreria standard**
@@ -158,3 +155,5 @@ Ecco la tua lista formattata correttamente come un file `.md`:
   Funzioni per il controllo avanzato del terminale. Utili per configurare la visualizzazione e i comportamenti interattivi.
 
 ---
+
+Copia questa sezione in un file `.md` per una lettura chiara e organizzata. Se vuoi approfondire una funzione specifica o hai bisogno di ulteriori spiegazioni, fammi sapere!
