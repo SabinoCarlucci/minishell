@@ -4,27 +4,26 @@ Funzioni di libreria standard
 --Legge una riga di input dall'utente, con supporto per l'editing e la cronologia.
 Restituisce un puntatore a una stringa allocata dinamicamente.
 
-rl_clear_history
+- rl_clear_history
+--Libera la memoria utilizzata dalla cronologia dei comandi.
 
-Libera la memoria utilizzata dalla cronologia dei comandi.
-rl_on_new_line
+- rl_on_new_line
+--Notifica a readline che un nuovo comando è iniziato.
 
-Notifica a readline che un nuovo comando è iniziato.
-rl_replace_line
+- rl_replace_line
+--Sostituisce la riga corrente con un testo specificato.
 
-Sostituisce la riga corrente con un testo specificato.
-rl_redisplay
+- rl_redisplay
+--Ridisegna la riga corrente sul terminale.
 
-Ridisegna la riga corrente sul terminale.
-add_history
+- add_history
+--Aggiunge una stringa alla cronologia dei comandi.
 
-Aggiunge una stringa alla cronologia dei comandi.
-printf
+- printf
+--Stampa un formato specifico su standard output. Simile a ft_printf nella tua libft.
 
-Stampa un formato specifico su standard output. Simile a ft_printf nella tua libft.
-malloc
-
-Alloca dinamicamente memoria.
+- malloc
+--Alloca dinamicamente memoria.
 free
 
 Libera memoria precedentemente allocata con malloc.
