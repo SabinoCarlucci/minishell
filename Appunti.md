@@ -155,5 +155,3 @@
   Funzioni per il controllo avanzato del terminale. Utili per configurare la visualizzazione e i comportamenti interattivi.
 
 ---
-
-Copia questa sezione in un file `.md` per una lettura chiara e organizzata. Se vuoi approfondire una funzione specifica o hai bisogno di ulteriori spiegazioni, fammi sapere!
