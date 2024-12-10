@@ -49,6 +49,15 @@
 
 ---
 
+## **Gestione degli errori**
+- **`strerror`**  
+  Restituisce una stringa che descrive il significato di un numero di errore (`errno`).
+
+- **`perror`**  
+  Stampa un messaggio d'errore personalizzato seguito dalla descrizione dell'errore corrente basato su `errno`.
+
+---
+
 ## **Gestione dei processi**
 - **`fork`**  
   Crea un nuovo processo duplicando il processo corrente.
