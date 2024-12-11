@@ -1,0 +1,7 @@
+Tjaz consiglia di iniziare con un ciclo che lancia readline in continuazione, e sperimentare da li.
+
+forse mi conviene fare il parsing, perche' non ho fatto pipex.
+
+Nella prima fase bisogna cercare errori banali, 
+poi trasformare il comando in token semplici, 
+poi in una seconda fare trasformare i token semplici (es: stringa) in piu' complicati (es: infile o cmd)
