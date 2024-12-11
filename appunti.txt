@@ -5,3 +5,29 @@ forse mi conviene fare il parsing, perche' non ho fatto pipex.
 Nella prima fase bisogna cercare errori banali, 
 poi trasformare il comando in token semplici, 
 poi in una seconda fare trasformare i token semplici (es: stringa) in piu' complicati (es: infile o cmd)
+
+------------------
+
+lexer -> parser -> expander -> executor
+
+fai espansione subito dopo lexer, prima di parsing
+
+--------------
+
+DOMANDE:
+
+cos'e' AST — Abstract Syntax Tree
+https://en.wikipedia.org/wiki/Abstract_syntax_tree
+
+cos'e' parse tree
+https://en.wikipedia.org/wiki/Parse_tree
+
+quale metodo usiamo?
+1) Recursive Descent
+https://en.wikipedia.org/wiki/Recursive_descent_parser
+
+2) Precedence Climbing
+https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing
+
+3) shunting-yard algorithm
+https://en.wikipedia.org/wiki/Shunting_yard_algorithm
