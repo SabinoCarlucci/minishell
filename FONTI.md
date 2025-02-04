@@ -13,7 +13,7 @@ Casi particolari
 - ec"ho ciao"
 - echo abc$USERabc
 - echo abc"$USER"abc
-- echo "'$USER'"
+- echo " '$USER' "
 - cat | cat | ls (e' nel foglio correzione)
 https://stackoverflow.com/questions/76020074/understanding-how-pipelines-work-in-bash-cat-cat-ls-pipeline-hangs-until-tw
 - echo ciao >prova.txt | <prova2.txt cat (redirect-in ha precedenza su pipe)
