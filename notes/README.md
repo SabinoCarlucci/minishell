@@ -1,5 +1,7 @@
 # minishell
 
+salvato su chatgpt come "minishell project guide".
+
 Per testare, apri terminale e scrivi bash.
 
 Prova su bash i comandi che devi eseguire su minishell, ma non usarlo come riferimento per i leak.
