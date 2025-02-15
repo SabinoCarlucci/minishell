@@ -1,6 +1,6 @@
 # minishell
 
-salvato su chatgpt come "minishell project guide".
+archiviato su chatgpt come "minishell project guide".
 
 Per testare, apri terminale e scrivi bash.
 
